@@ -1,0 +1,19 @@
+{
+   "users": {
+      "966333378": {
+         "name": "Ali",
+         "username": "haktsl",
+         "sefCounter": 5
+      },
+      "6023073066": {
+         "safeCounter": 4,
+         "username": null,
+         "name": "Yassi"
+      },
+      "5006908477": {
+         "safeCounter": 3,
+         "username": "yassine933",
+         "name": "yassine"
+      }
+   }
+}
